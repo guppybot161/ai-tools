@@ -1,0 +1,4 @@
+# One protected identifier per line (emails, phone numbers, address fragments).
+# git config --global user.email is added automatically.
+# Copy to ~/.claude/hooks/pii_terms.txt (install.sh does this) and chmod 600.
+you@example.com
